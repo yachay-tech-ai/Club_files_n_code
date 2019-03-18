@@ -3,4 +3,5 @@ Repository for the club's source codes and files
 
 Welcome to Yachay Tech's Artificial Intelligence and Game Development Club repo. Here you will find all presentations from previous seminars, source code from past workshops and projects.
 
-[[https://github.com/yachay-tech-ai/Club_files_n_code/blob/master/Logos/Picture1.png]]
+![alt text](https://github.com/yachay-tech-ai/Club_files_n_code/blob/master/Logos/Picture1.png)
+
