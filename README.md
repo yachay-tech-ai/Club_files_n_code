@@ -6,4 +6,4 @@ Welcome to Yachay Tech's Artificial Intelligence and Game Development Club repo.
 If you want to see club's main projects, please visit yachay-tech-ai's other repos.
 
 ![alt text](https://github.com/yachay-tech-ai/Club_files_n_code/blob/master/Logos/Picture1.png)
-
+![alt text](https://github.com/yachay-tech-ai/Club_files_n_code/blob/master/Logos/logo-footer.png)
